@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Seer' Blog]]></title>
+  <title><![CDATA[Seer's]]></title>
   <link href="http://blog.0x08.net/atom.xml" rel="self"/>
   <link href="http://blog.0x08.net/"/>
-  <updated>2014-03-11T02:49:02+08:00</updated>
+  <updated>2014-03-11T03:49:39+08:00</updated>
   <id>http://blog.0x08.net/</id>
   <author>
     <name><![CDATA[Seer]]></name>
     
   </author>
-	 <generator uri="http://0x08.net" >SeerKid</generator>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[First Paper]]></title>
+    <title type="html"><![CDATA[First paper]]></title>
     <link href="http://blog.0x08.net/blog/2014/03/11/first-paper/"/>
     <updated>2014-03-11T02:03:24+08:00</updated>
     <id>http://blog.0x08.net/blog/2014/03/11/first-paper</id>
