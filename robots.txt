@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://Seerkid.github.io/sitemap.xml 
+Sitemap: http://blog.0x08.net/sitemap.xml 
