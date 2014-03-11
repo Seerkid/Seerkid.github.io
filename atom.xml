@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Seer's]]></title>
+  <link href="http://blog.0x08.net/atom.xml" rel="self"/>
+  <link href="http://blog.0x08.net/"/>
+  <updated>2014-03-11T16:50:36+08:00</updated>
+  <id>http://blog.0x08.net/</id>
+  <author>
+    <name><![CDATA[Seer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First paper]]></title>
+    <link href="http://blog.0x08.net/blog/2014/03/11/first-paper/"/>
+    <updated>2014-03-11T02:03:24+08:00</updated>
+    <id>http://blog.0x08.net/blog/2014/03/11/first-paper</id>
+    <content type="html"><![CDATA[<p>自从手贱Drop掉了自己博客的Database之后，再也不敢不备份数据了&hellip;不过这下也省去不少麻烦，至少不会手贱Drop掉 Github 的Database了 :）</p>
+]]></content>
+  </entry>
+  
+</feed>
