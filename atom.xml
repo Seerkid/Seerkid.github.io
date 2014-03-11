@@ -4,7 +4,7 @@
   <title><![CDATA[Seer's]]></title>
   <link href="http://blog.0x08.net/atom.xml" rel="self"/>
   <link href="http://blog.0x08.net/"/>
-  <updated>2014-03-11T20:31:07+08:00</updated>
+  <updated>2014-03-12T01:48:03+08:00</updated>
   <id>http://blog.0x08.net/</id>
   <author>
     <name><![CDATA[Seer]]></name>
@@ -14,11 +14,23 @@
 
   
   <entry>
-    <title type="html"><![CDATA[First paper]]></title>
+    <title type="html"><![CDATA[新的开始]]></title>
     <link href="http://blog.0x08.net/blog/2014/03/11/first-paper/"/>
     <updated>2014-03-11T02:03:24+08:00</updated>
     <id>http://blog.0x08.net/blog/2014/03/11/first-paper</id>
-    <content type="html"><![CDATA[<p>自从手贱Drop掉了自己博客的Database之后，再也不敢不备份数据了&hellip;不过这下也省去不少麻烦，至少不会手贱Drop掉 Github 的Database了 :）</p>
+    <content type="html"><![CDATA[<p>前天把博客数据库Drop掉，甚是心痛，实在不知道我当时怎么想得，居然这样去命名&hellip;..</p>
+
+<p><img src="http://wenwen.soso.com/p/20110331/20110331151831-394079716.jpg"></p>
+
+<p>手贱Drop Database 之后，我就转移到这吧。从此『妈妈再也不用担心我没有备份数据库了』</p>
+
+<p>其实我还是挺怀念之前的博客的，记录了我点点滴滴,还有那一篇篇烂尾的文章各种private的笔记和那整理到一半的bctf思路&hellip;&hellip;</p>
+
+<hr />
+
+<p>  好吧，往事不堪回首，大侠还是要重新来过，这里，会是一个新的开始。</p>
+
+<hr />
 ]]></content>
   </entry>
   
