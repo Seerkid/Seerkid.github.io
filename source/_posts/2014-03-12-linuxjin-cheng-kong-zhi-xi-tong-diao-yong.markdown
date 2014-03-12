@@ -6,10 +6,6 @@ comments: true
 categories: 
 ---
 
-*TASK_RUNNING(运行):可执行状态 
-**正在执行
-**在就绪队列中等待
-
 
 >Some notes of course
 
