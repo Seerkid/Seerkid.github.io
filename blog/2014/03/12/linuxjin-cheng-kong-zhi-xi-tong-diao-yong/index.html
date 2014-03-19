@@ -280,6 +280,8 @@ n通过命令行参数传入； &hellip;">
 </ul>
 
 
+<p>感觉这道题实现的有点奇葩，应该有更好的实现方式，有时间再去折腾吧～ :)</p>
+
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
@@ -347,7 +349,7 @@ n通过命令行参数传入； &hellip;">
 </span><span class='line'>      <span class="n">Lchildpid</span> <span class="o">=</span> <span class="n">fork</span><span class="p">();</span>
 </span><span class='line'>      <span class="k">if</span> <span class="p">(</span><span class="n">Lchildpid</span> <span class="o">==</span> <span class="mi">0</span><span class="p">){</span>
 </span><span class='line'>          <span class="n">no</span> <span class="o">=</span> <span class="n">no</span><span class="o">*</span><span class="mi">2</span> <span class="o">+</span> <span class="mi">1</span><span class="p">;</span>
-</span><span class='line'>          <span class="n">Rchildpid</span> <span class="o">=</span> <span class="n">Lchildpid</span> <span class="o">=</span><span class="mi">0</span><span class="p">;</span>
+</span><span class='line'>      <span class="n">Rchildpid</span> <span class="o">=</span> <span class="n">Lchildpid</span> <span class="o">=</span><span class="mi">0</span><span class="p">;</span>
 </span><span class='line'>          <span class="k">continue</span><span class="p">;</span>
 </span><span class='line'>      <span class="p">}</span>
 </span><span class='line'>    <span class="p">}</span>
