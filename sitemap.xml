@@ -17,19 +17,24 @@
     </url>
     <url>
         <loc>http://blog.0x08.net/blog/2014/03/12/linuxjin-cheng-kong-zhi-xi-tong-diao-yong/</loc>
-        <lastmod>2014-03-12T02:17:38+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://blog.0x08.net/blog/archives/</loc>
-        <lastmod>2014-03-12T02:17:38+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://blog.0x08.net/</loc>
-        <lastmod>2014-03-12T02:17:38+08:00</lastmod>
->>>>>>> 9f937eacdb8d2237d3118419bd31b32e19460033
+        <lastmod>2014-03-19T15:04:23+08:00</lastmod>
     </url>
     <url>
         <loc>http://blog.0x08.net/robots.txt</loc>
         <lastmod>2014-03-11T01:59:00+08:00</lastmod>
+    </url>
+    <url>
+<<<<<<< HEAD
+        <loc>http://blog.0x08.net/</loc>
+        <lastmod>2014-03-12T02:17:38+08:00</lastmod>
+>>>>>>> 9f937eacdb8d2237d3118419bd31b32e19460033
+=======
+        <loc>http://blog.0x08.net/blog/archives/</loc>
+        <lastmod>2014-03-19T15:04:23+08:00</lastmod>
+>>>>>>> be0d3547c098e6e148c2aed070d2bdbbde21c79c
+    </url>
+    <url>
+        <loc>http://blog.0x08.net/</loc>
+        <lastmod>2014-03-19T15:04:23+08:00</lastmod>
     </url>
 </urlset>
